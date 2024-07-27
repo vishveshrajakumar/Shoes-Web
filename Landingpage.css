@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+
+#nav1 {
+    color: black;
+    font-weight: bold;
+}
+
+#nav2 {
+    color: black;
+    font-weight: bold;
+}
+
+#nav3 {
+    color: black;
+    font-weight: bold;
+}
+
+#nav4 {
+    color: black;
+    font-weight: bold;
+}
+
+.bg {
+    background-image: url('https://img.freepik.com/free-photo/baby-concept-with-shoes-space_23-2147665701.jpg?ga=GA1.1.1340070295.1721907215&semt=ais_user');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+
+}
+
+.img {
+    height: 230px;
+    width: 300px;
+    border-radius: 40px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+.hd {
+    color: black;
+    font-family: "Serif";
+    font-size: 25px;
+
+}
+
+.hd3 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+.hd2 {
+    color: black;
+    font-family: "Georgia";
+    font-size: 40px;
+    font-weight: 800;
+    padding-left: 10px;
+
+}
+
+
+.det {
+    font-family: "Courier New";
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 5px;
+
+}
+
+.para {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Trebuchet MS";
+}
+
+.button {
+    background-image: linear-gradient(to right, #dea509, #9e906a);
+    color: black;
+    height: 40px;
+    width: 160px;
+    padding: 2px;
+    border-radius: 12px;
+    font-weight: normal;
+    border-style: solid;
+    border-color: black;
+}
